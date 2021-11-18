@@ -4,7 +4,7 @@ description: Overview
 
 # Sunbird coKreat
 
-Sunbird coKreat consists of a set of services and ready to use reference application that enables you to **create, source **digital assets, **curate** them for specific needs and **publish** them for consumption. The ready to use reference web application comes with an inbuilt set of workflows for orchestrating the entire process.
+Sunbird coKreat consists of a set of services and ready to use reference application that enables you to **create, source **digital assets, **curate** them for specific needs and **publish** them for consumption. The web application comes with an inbuilt set of workflows for orchestrating the entire process.
 
 The unique power that Sunbird coKreat unleashes is enabling of “**co-creation**” using crowdsourcing as against mere “**creation**” of assets. What this means is that you need not create all the digital assets that you require, within your organization. You can source them from other organizations and individuals who can provide it for you. This potentially makes the process highly scalable allowing you to access capacity and competency beyond your select set of users.
 
