@@ -12,3 +12,9 @@ Web application
 Contribution service
 {% endembed %}
 
+### Contributor registry
+
+{% embed url="https://github.com/Sunbird-RC/open-saber/wiki" %}
+Contribution Registry
+{% endembed %}
+
