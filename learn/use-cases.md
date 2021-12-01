@@ -1,4 +1,13 @@
-# Co-create Vs Create - Scale is the difference
+# Use Cases
+
+**Use cases**
+
+This building block addresses two use cases for organizations:
+
+* As an organization, I want to create content using in-house resources
+* As an organization, I want to co-create content by sourcing it from other organizations or individuals
+
+**Co-create Vs Create - Scale is the difference**
 
 Traditionally, organizations that have digital asset needs for the sake of learning, assessing, teaching, training - for education or any kind of human development purpose, have primarily followed two approaches:
 
@@ -21,6 +30,6 @@ The key processes for the “co-create” approach to work are:
 1. Engagement with partners and contributors by providing them with recognition and data about their contributions
 2. Curation of large pool of assets that can potentially come from contributors&#x20;
 
-Considering the above, **Sunbird coKreat **provides tools and services to engage a wide ecosystem to collect, curate, publish, monitor, and reward the contributions.
+Considering the above, **Sunbird coKreat** provides tools and services to engage a wide ecosystem to collect, curate, publish, monitor, and reward the contributions.
 
 It is an evolving software designed to be configurable, extendable to serve multiple needs. It enables a set of process flows for the orchestration and can be easily enhanced, extended for further needs.
