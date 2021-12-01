@@ -4,8 +4,8 @@
 
 This building block addresses two use cases for organizations:
 
-* As an organization, I want to create content using in-house resources
-* As an organization, I want to co-create content by sourcing it from other organizations or individuals
+* As an organization, I want to **create** content using in-house resources
+* As an organization, I want to **co-create** content by sourcing it from other organizations or individuals
 
 **Co-create Vs Create - Scale is the difference**
 
