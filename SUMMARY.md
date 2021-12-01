@@ -18,4 +18,5 @@
 
 ## USE
 
-* [Page 3](use/page-3.md)
+* [System requirements](use/system-requirements.md)
+* [How-to Install](use/how-to-install.md)
