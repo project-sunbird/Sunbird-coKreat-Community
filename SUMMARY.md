@@ -11,6 +11,7 @@
 * [Components](learn/components.md)
 * [Dependencies](learn/dependencies.md)
 * [Terminology](learn/terminology.md)
+* [Technical Architecture](learn/technical-architecture.md)
 
 ## ENGAGE
 
