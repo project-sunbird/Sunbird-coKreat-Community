@@ -6,6 +6,7 @@
 
 * [Getting Started](capabilities/getting-started.md)
 * [Sourcing Workflows](capabilities/sourcing-workflows/README.md)
+  * [Supported Asset Types & Format](capabilities/sourcing-workflows/supported-asset-types-and-format.md)
   * [Different types of Sourcing](capabilities/sourcing-workflows/different-types-of-sourcing.md)
 * [Capabilities](capabilities/capabilities.md)
 * [Components](capabilities/components.md)
