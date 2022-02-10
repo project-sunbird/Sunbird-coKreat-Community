@@ -2,16 +2,16 @@
 
 * [Sunbird coKreat](README.md)
 
-## LEARN
+## Capabilities
 
-* [Use Cases](learn/use-cases.md)
-* [Key Actors and Actions in Co-creation Process](learn/key-actors-and-actions-in-co-creation-process.md)
-* [Co-creation Process Flows](learn/co-creation-process-flows.md)
-* [Capabilities](learn/capabilities.md)
-* [Components](learn/components.md)
-* [Dependencies](learn/dependencies.md)
-* [Terminology](learn/terminology.md)
-* [Technical Architecture](learn/technical-architecture.md)
+* [Getting Started](capabilities/getting-started.md)
+* [Sourcing Workflows](capabilities/sourcing-workflows.md)
+* [Co-creation Process Flows](capabilities/co-creation-process-flows.md)
+* [Capabilities](capabilities/capabilities.md)
+* [Components](capabilities/components.md)
+* [Dependencies](capabilities/dependencies.md)
+* [Terminology](capabilities/terminology.md)
+* [Technical Architecture](capabilities/technical-architecture.md)
 
 ## ENGAGE
 

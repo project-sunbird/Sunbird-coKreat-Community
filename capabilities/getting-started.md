@@ -1,13 +1,13 @@
-# Use Cases
+# Getting Started
 
-**Use cases**
+### **Use cases**
 
-This building block addresses two use cases for organizations:
+This building block broadly serves two use cases for organizations:
 
 * As an organization, I want to **create** content using in-house resources
 * As an organization, I want to **co-create** content by sourcing it from other organizations or individuals
 
-**Co-create Vs Create - Scale is the difference**
+#### **Co-create Vs Create - Scale is the difference**
 
 Traditionally, organizations that have digital asset needs for the sake of learning, assessing, teaching, training - for education or any kind of human development purpose, have primarily followed two approaches:
 

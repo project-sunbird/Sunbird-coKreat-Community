@@ -24,7 +24,7 @@ The key capabilities of Sunbird coKreat are:&#x20;
 
 ### Adopters:&#x20;
 
-**DIKSHA by NCERT. Ministry of Education, India**&#x20;
+**DIKSHA by NCERT**_,_ **Ministry of Education, India**&#x20;
 
 _Vidyadaan is a government program launched by DIKSHA (India’s national education platform), that invites contributions of e-learning resources from across the country._&#x20;
 
@@ -33,3 +33,7 @@ _Vidyadaan is a government program launched by DIKSHA (India’s national educat
 _Number of assets sourced: 1,93,871_&#x20;
 
 _Number of contributors: 11,105_
+
+**Contributors**
+
+Ekstep & Samagra
