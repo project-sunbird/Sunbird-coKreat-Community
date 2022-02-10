@@ -5,8 +5,8 @@
 ## Capabilities
 
 * [Getting Started](capabilities/getting-started.md)
-* [Sourcing Workflows](capabilities/sourcing-workflows.md)
-* [Co-creation Process Flows](capabilities/co-creation-process-flows.md)
+* [Sourcing Workflows](capabilities/sourcing-workflows/README.md)
+  * [Different types of Sourcing](capabilities/sourcing-workflows/different-types-of-sourcing.md)
 * [Capabilities](capabilities/capabilities.md)
 * [Components](capabilities/components.md)
 * [Dependencies](capabilities/dependencies.md)
