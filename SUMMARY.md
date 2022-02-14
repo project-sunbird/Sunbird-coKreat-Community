@@ -38,3 +38,8 @@
 
 * [System requirements](use/system-requirements.md)
 * [How-to Install](use/how-to-install.md)
+
+## Copy of USE
+
+* [Copy of System requirements](copy-of-use/copy-of-system-requirements.md)
+* [Copy of How-to Install](copy-of-use/copy-of-how-to-install.md)
