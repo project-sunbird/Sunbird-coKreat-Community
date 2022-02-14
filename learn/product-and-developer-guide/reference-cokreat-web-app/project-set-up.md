@@ -1,6 +1,6 @@
 # Project Set Up
 
-The previous [section](../different-types-of-sourcing.md) detailed about the various types of sourcing workflows enabled by the coKreat reference portal. This section will cover in detail 'How to' create projects using the reference webapp.&#x20;
+The previous [section](different-types-of-sourcing.md) detailed about the various types of sourcing workflows enabled by the coKreat reference portal. This section will cover in detail 'How to' create projects using the reference webapp.&#x20;
 
 ### How to create a project?
 
