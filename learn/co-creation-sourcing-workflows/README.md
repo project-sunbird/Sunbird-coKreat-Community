@@ -1,4 +1,4 @@
-# Sourcing Workflows
+# Co-creation Sourcing Workflows
 
 ## Key Actors and Actions in Co-creation Process
 

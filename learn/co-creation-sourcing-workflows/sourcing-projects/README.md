@@ -1,4 +1,4 @@
-# Sourcing Project
+# Sourcing Projects
 
 Projects are created by an organization admin to seek contributions. Projects are entirely purpose driven. For example, a project to source:
 
