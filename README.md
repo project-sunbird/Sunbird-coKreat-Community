@@ -12,7 +12,7 @@ a) Crowdsourcing videos to create a content repository in multiple languages. E.
 
 b) Crowdsourcing content to create a repository of collections. E.g A library of ICT courses with crowdsourced content.&#x20;
 
-c) Create content and collections using in-house creators.
+c) Create repository of content and collections using in-house creators.
 
 The key capabilities of Sunbird coKreat are:&#x20;
 
