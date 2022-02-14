@@ -24,11 +24,6 @@
   * [Data Products](learn/product-and-developer-guide/data-products.md)
 * [Try it out](learn/try-it-out.md)
 * [Product Roadmap](learn/product-roadmap.md)
-* [Configuration of Editors](learn/configuration-of-editors.md)
-* [Components](learn/components.md)
-* [Dependencies](learn/dependencies.md)
-* [Terminology](learn/terminology.md)
-* [Technical Architecture](learn/technical-architecture-1.md)
 
 ## ENGAGE
 
@@ -39,7 +34,9 @@
 * [System requirements](use/system-requirements.md)
 * [How-to Install](use/how-to-install.md)
 
-## Copy of USE
+## Archived
 
-* [Copy of System requirements](copy-of-use/copy-of-system-requirements.md)
-* [Copy of How-to Install](copy-of-use/copy-of-how-to-install.md)
+* [Components](archived/components/README.md)
+  * [Terminology](archived/components/terminology.md)
+  * [Configuration of Editors](archived/components/configuration-of-editors.md)
+  * [Dependencies](archived/components/dependencies.md)
