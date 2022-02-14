@@ -4,8 +4,8 @@ coKreat reference web app allows for configuration of a variety of editors based
 
 Below are the details of these editors:
 
-a) Question set editor - This editor is configured for sourcing assets of type question set which power assessment, question bank kind of use cases. More information about this editor can be found here.
+a) Question set editor - This editor is configured for sourcing assets of type question set which power assessment, question bank kind of use cases. Click here to know more about this editor.
 
-b) Content editor - This editor is configured for sourcing assets of type explanation content which predominantly are either videos, PDF or ePUB format. More information about this editor can be found here.
+b) Content editor - This editor is configured for sourcing assets of type explanation content which predominantly are either videos, PDF or ePUB format. Click here to know more about this editor.
 
-c) Interactive editor - This editor is configured when sourcing assets of type explanation content of html format. More information about this editor can be found here.
+c) Interactive editor - This editor is configured when sourcing assets of type explanation content of html format. Click here to know more about this editor.
