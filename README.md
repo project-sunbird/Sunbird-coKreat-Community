@@ -50,15 +50,6 @@ c) Create repository of content and collections using in-house creators.
 
 __
 
-*   **Programs & Projects**:&#x20;
-
-    * Microservices for enabling targeted time bound programs with defined digital assets to be consumed&#x20;
-    * Microservices for enabling projects with defined tasks - helping users to structure their execution
-
-    Programs & Projects are powered by [_Sunbird Knowlg_](broken-reference)__
-
-__
-
 *   **Observability:**&#x20;
 
     * Capture user engagement centric metrics and analytics using telemetry, data pipeline
@@ -80,9 +71,10 @@ __
 
 *   **User Engagement:**
 
-    1. User account creation, login and user profile with learning passbook
+    1. User account creation, login and user profile&#x20;
     2. Tenant administration - user roles, location and other master data
-    3. Drive user engagement on the platform via discussion forum, events, groups, and notification
+
+
 
     User engagement is powered by [_Sunbird Lern_](broken-reference)
 
