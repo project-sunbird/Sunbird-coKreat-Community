@@ -15,6 +15,7 @@
     * [Sourcing Projects](learn/product-and-developer-guide/reference-cokreat-web-app/sourcing-projects.md)
     * [Project Set Up](learn/product-and-developer-guide/reference-cokreat-web-app/project-set-up.md)
     * [Managing Projects](learn/product-and-developer-guide/reference-cokreat-web-app/managing-projects.md)
+    * [Managing Users](learn/product-and-developer-guide/reference-cokreat-web-app/managing-users.md)
     * [Contribution Process](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/README.md)
       * [How to Nominate?](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/how-to-nominate.md)
       * [How to Contribute?](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/how-to-contribute.md)
