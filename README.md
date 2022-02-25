@@ -18,47 +18,29 @@ c) Create repository of content and collections using in-house creators.
 
 ### Key capabilities of Sunbird coKreat
 
-*   **Asset Sourcing:**&#x20;
 
-    * Web Portal to source, crowdsource and curate digital assets required for learning needs.
 
-    &#x20;
+Sunbird coKreat offers embeddable tools and microservices that enable the following capabilities:&#x20;
+
+* **Asset Sourcing:** Web Portal to source, crowdsource and curate digital assets required for learning needs.
 *   **Content:**
 
     * Enables learning experience with wide variety of content such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and epub.&#x20;
     * Content editors and players embeddable in user applications.
 
     Content is powered by [_Sunbird Knowlg_](broken-reference)
-
-
-
-*   **Discover - Digital & Phygital**:&#x20;
-
-    * Personalize content discovery for your users based on their preferences (e.g. language, type of content, etc.) by defining & setting up your own taxonomies and categorization.
-    * Engage users through contextual & just-in-time delivery of digital materials, which are connected to physical materials, through QR codes.&#x20;
-
-    Discover is powered by [_Sunbird Knowlg_](broken-reference)****
-
-****
-
 *   **Collections**:&#x20;
 
     * Enable multiple types of collections such as courses material, textbooks, playlists with distinct behaviour.&#x20;
     * Pluggable editor to create collections with proper tagging for ease of discovery.
 
     Collections are powered by [_Sunbird Knowlg_](broken-reference)__
-
-__
-
 *   **Observability:**&#x20;
 
     * Capture user engagement centric metrics and analytics using telemetry, data pipeline
     * Observe user behavior, monitor progress, and drive improvements in user experience through actionable data-driven dashboards**.** Process more than 2 billion+ events in a day.
 
     Observability is powered by [_Sunbird Obsrv_](broken-reference)****
-
-****
-
 *   **Question Bank:**
 
     * Set up and use question bank for various use cases such as practice, assessment, quiz, worksheet, survey, observations and others&#x20;
@@ -66,15 +48,10 @@ __
     * Allow your users to consume quizzes, surveys etc. with configurable behavior like timers, hints, and more, using a pluggable Question Set Player
 
     Question Bank is powered by [_Sunbird Inquiry_](broken-reference)__
-
-__
-
 *   **User Engagement:**
 
     1. User account creation, login and user profile&#x20;
-    2. Tenant administration - user roles, location and other master data
-
-
+    2. Tenant administration - user roles
 
     User engagement is powered by [_Sunbird Lern_](broken-reference)
 
