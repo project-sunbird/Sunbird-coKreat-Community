@@ -20,40 +20,29 @@ c) Create repository of content and collections using in-house creators.
 
 Sunbird coKreat offers embeddable tools and microservices that enable the following capabilities:&#x20;
 
-* **Asset sourcing:** Web Portal to source, crowdsource and curate digital assets required for learning needs.
-*   **Asset creation & organization:**
+* **Asset Sourcing**&#x20;
 
-    * Enables learning experience with wide variety of content such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and epub.&#x20;
-    * Content editors and players embeddable in user applications.
+Web portal to source, crowdsource and curate digital assets required for learning needs.
 
-    Content is powered by [_Sunbird Knowlg_](broken-reference)
-*   **Collections**:&#x20;
+* **Asset Creation**&#x20;
 
-    * Enable multiple types of collections such as courses material, textbooks, playlists with distinct behaviour.&#x20;
-    * Pluggable editor to create collections with proper tagging for ease of discovery.
+Microservices to define assets required for learning needs and their behaviour, and the end to end asset publish workflows including asset creation and curation. Pluggable editors and players to enable a variety of learning experiences such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and ePub.
 
-    Collections are powered by [_Sunbird Knowlg_](broken-reference)__
-*   **Observability:**&#x20;
+* **Asset Organization**&#x20;
 
-    * Capture user engagement centric metrics and analytics using telemetry, data pipeline
-    * Observe user behavior, monitor progress, and drive improvements in user experience through actionable data-driven dashboards**.** Process more than 2 billion+ events in a day.
+Organize the assets into various categories such as playlists, courses, textbooks, web-series, episodes etc. Enable meaningful tagging and discovery by defining and setting up your own asset taxonomies and categorisation. Link assets to QR codes to enable access of digital assets from physical material by a simple QR scan.
 
-    Observability is powered by [_Sunbird Obsrv_](broken-reference)****
-*   **Question Bank:**
+* **Question Bank**&#x20;
 
-    * Set up and use question bank for various use cases such as practice, assessment, quiz, worksheet, survey, observations and others&#x20;
-    * Create questions of different types and stitch them into question sets using a pluggable Question Set Editor.&#x20;
-    * Allow your users to consume quizzes, surveys etc. with configurable behavior like timers, hints, and more, using a pluggable Question Set Player
+Set up and use question bank for various use cases such as practice, assessment, quiz, worksheet, survey, observations and others Pluggable Question Set Editor and Player which can be embedded in applications
 
-    Question Bank is powered by [_Sunbird Inquiry_](broken-reference)__
-*   **User Engagement:**
+* **Engage Users**&#x20;
 
-    1. User account creation, login and user profile&#x20;
-    2. Tenant administration - user roles
+User account creation, login and user profile.
 
-    User engagement is powered by [_Sunbird Lern_](broken-reference)
+* **Visualise Insights**
 
-&#x20;
+Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data.
 
 ### Adopters:&#x20;
 
