@@ -4,7 +4,7 @@ description: Overview
 
 # Sunbird coKreat
 
-## Overview
+### _What is Sunbird coKreat?_
 
 Sunbird coKreat is a building block that allows sourcing of various digital assets required for learning, capacity building, or professional development solutions. The solutions are applicable in multiple domains such as education, healthcare, and many more.
 
@@ -16,14 +16,12 @@ b) Crowdsourcing content to create a repository of collections. E.g A library of
 
 c) Create repository of content and collections using in-house creators.
 
-### Key capabilities of Sunbird coKreat
-
-
+### _What does Sunbird coKreat offer?_
 
 Sunbird coKreat offers embeddable tools and microservices that enable the following capabilities:&#x20;
 
-* **Asset Sourcing:** Web Portal to source, crowdsource and curate digital assets required for learning needs.
-*   **Content:**
+* **Asset sourcing:** Web Portal to source, crowdsource and curate digital assets required for learning needs.
+*   **Asset creation & organization:**
 
     * Enables learning experience with wide variety of content such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and epub.&#x20;
     * Content editors and players embeddable in user applications.
