@@ -1,8 +1,4 @@
----
-description: Overview
----
-
-# Sunbird coKreat
+# Overview
 
 ### _What is Sunbird coKreat?_
 
@@ -20,29 +16,13 @@ c) Create repository of content and collections using in-house creators.
 
 Sunbird coKreat offers embeddable tools and microservices that enable the following capabilities:&#x20;
 
-* **Asset Sourcing**&#x20;
-
-Web portal to source, crowdsource and curate digital assets required for learning needs.
-
-* **Asset Creation**&#x20;
-
-Microservices to define assets required for learning needs and their behaviour, and the end to end asset publish workflows including asset creation and curation. Pluggable editors and players to enable a variety of learning experiences such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and ePub.
-
-* **Asset Organization**&#x20;
-
-Organize the assets into various categories such as playlists, courses, textbooks, web-series, episodes etc. Enable meaningful tagging and discovery by defining and setting up your own asset taxonomies and categorisation. Link assets to QR codes to enable access of digital assets from physical material by a simple QR scan.
-
-* **Question Bank**&#x20;
-
-Set up and use question bank for various use cases such as practice, assessment, quiz, worksheet, survey, observations and others Pluggable Question Set Editor and Player which can be embedded in applications
-
-* **Engage Users**&#x20;
-
-User account creation, login and user profile.
-
-* **Visualise Insights**
-
-Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data.
+* **Asset Sourcing  -** Web portal to source, crowdsource and curate digital assets required for learning needs.
+* **Rich and Diverse Assets** - Enable a variety of learning experiences such as simulations, explanation, e-books, games, virtual labs, AR/VR experiences using multiple formats - html, videos, h5p, pdf, audios and ePub.
+* **Organised Collections** - Organise your assets into various categories such as playlists, courses, textbooks, web-series, episodes etc.
+* **Asset Lifecycle Management** - Microservices to manage the asset creation, curation and publish lifecycle.
+* **User Engagement -** User account creation, login and user profile.
+* **Question Bank -** Set up and use question bank for various use cases such as practice, assessment, quiz, worksheet, survey, observations and others Pluggable Question Set Editor and Player which can be embedded in applications
+* **Observability -** Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data.
 
 ### Adopters:&#x20;
 

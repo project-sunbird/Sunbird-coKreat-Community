@@ -1,12 +1,11 @@
 # Table of contents
 
-* [Sunbird coKreat](README.md)
-
 ## Learn
 
-* [Functional Capabilities](learn/functional-capabilities/README.md)
-  * [Getting Started](learn/getting-started.md)
-  * [Asset Sourcing](learn/functional-capabilities/asset-sourcing.md)
+* [Overview](README.md)
+* [Capabilities](learn/capabilities/README.md)
+  * [Getting Started](learn/capabilities/getting-started.md)
+  * [Asset Sourcing](learn/capabilities/asset-sourcing.md)
 * [Case Studies](learn/case-studies.md)
 * [Technical Architecture](learn/technical-architecture.md)
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
