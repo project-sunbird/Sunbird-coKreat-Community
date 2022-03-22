@@ -1,8 +1,10 @@
 # Asset Sourcing
 
-### Reference coKreat web application <a href="#reference-cokreat-web-application" id="reference-cokreat-web-application"></a>
+Asset sourcing capability is enabled by the following components of coKreat building block.
 
-enables '**Asset Sourcing**'. It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks.
+### 1) Reference coKreat web application <a href="#reference-cokreat-web-application" id="reference-cokreat-web-application"></a>
+
+It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks.
 
 The web application consists of the following two portals.
 
@@ -23,4 +25,14 @@ This portal enables contributors - individuals or organizations, to enroll as co
 2. Nominate to one or more sourcing projects
 3. Contribute assets to the approved sourcing projects
 4. Get the consumption details of the assets that got published for consumption
+
+### 2) Contribution Service
+
+
+
+### 3) Contribution Registry
+
+
+
+### 4) Data Products
 
