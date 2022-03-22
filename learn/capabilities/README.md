@@ -1,6 +1,6 @@
 # Capabilities
 
-In this section you will find more details about of each of the below capabilities.
+In this section you will find more details about each of the below capabilities.
 
 {% content-ref url="asset-sourcing.md" %}
 [asset-sourcing.md](asset-sourcing.md)
