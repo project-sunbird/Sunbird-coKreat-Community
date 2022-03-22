@@ -1,29 +1,22 @@
 # Contribution Registry
 
-Contribution Registry is the single source of truth about all the contributors on co-kreat platform that nominate and contribute digital assets via sourcing projects. It stores the information about user, organization, role of the user in the organization. It also stores the mediums, classes and subjects user is contributing to. \
-&#x20;\
-When a person registers and logs in to Contribution Portal, the first thing he has to fill in is, whether he is an Individual contributor or an Contributing Organization. \
+Contribution registry stores the information about the individual contributors, organizations and the roles of various users in the organization. It also stores the metadata of the project scope.&#x20;
 
+### **Contributor Organization**
 
-#### Contributing Organization&#x20;
+When user enrolls as a **Contributor Organization**, Contribution Registry stores the User, Org and User\_Org Schemas.  User gets added as the organization admin, who has the privilege to invite other users to join this organization from contribution portal. These users can be called as Contributor Organization Users.
 
-When user enrolls as  a **Contributing Organization**, Contribution Registry stores the User, Org and User\_Org Schemas.  User gets added as a admin of that organization ( contribution org Admin), who later can invite other users to join his organization from contribution portal. These users can be called as Contributing Org Users.
-
-A Contributing Org Admin can :\
-&#x20;\-  Can nominate his organization for contributing to a project\
-&#x20;\-  Can invite users to contribute to his projects\
-&#x20;\-  Can assign contributors or reviewers to a project\
-&#x20;\-  Can Review contributions done by contributors \
+An Organization admin can:\
+&#x20;\-  nominate their organization for contributing to a project\
+&#x20;\-  invite users to contribute to their projects\
+&#x20;\-  assign contributors or reviewers to their project\
+&#x20;\-  review contributions done by contributors \
 \
-A user when uses invitation link shared by Contributing Org Admin, he becomes "User" of that specific organization. Admin can add these users as a contributor / Reviewer to the projects.\
-\
-A Contributor Org User can : \
-&#x20; \- Can contribute / Review contents&#x20;
+Users who accept the invite to join the organization to contribute content are given contributor roles within that organization. Admin can also grant 'Reviewer' roles to these contributors.&#x20;
 
-#### Individual Contributor
+### Individual Contributor
 
-\
-When a user enrolls as an **Individual Contributor**, only User schema is added in to Contribution Registry.&#x20;
+When a user enrolls as an **Individual Contributor**, only User schema is added to the Contribution Registry.&#x20;
 
 An Individual Contributor can : \
 &#x20;\- contribute the content by nominating to the respective project as an individual.\
@@ -33,11 +26,11 @@ An Individual Contributor can : \
 
 ### API documentation
 
-To experience the APIs, please visit [here](http://docs.sunbird.org/latest/apis/opensaber/)
+Click [here](http://docs.sunbird.org/latest/apis/opensaber/) to know in detail about the APIs that power these workflows. &#x20;
 
 ### Schemas in the contribution Registry
 
-#### User :
+#### User Schema :
 
 User schema stores the information about User.  If the user is an individual contributor this schema has roles column set as \["individual"], for contributor Org Admin it is set to \["admin"], for and for a contributing Org User it is set to \["User"]. It also adds up all the mediums, subjects, and classes a user is contributing to and update those values here.&#x20;
 

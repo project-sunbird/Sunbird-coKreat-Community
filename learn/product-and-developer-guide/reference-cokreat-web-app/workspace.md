@@ -1,5 +1,11 @@
 # Workspace
 
+Workspace facilitates in-house creation of assets. For ex., If the organization has in-house creators and reviewers who can create and curate content without the need to crowdsource it from other individuals or organizations then workspace can be used to meet such creation needs.  The roles that are needed are:
+
+a) content\_creator - this role has access to create content and collections.
+
+b) content\_reviewer - this role has access to curate content and collections.
+
 Organization, based on its creation needs, can configure what asset types are to be shown in the workspace and the editors to be used for the creation of these asset types in the workspace. For example, workspace shown in the below screen shot is configured to show and allow for creation of asset types such as:
 
 a) **collections** like book and course
