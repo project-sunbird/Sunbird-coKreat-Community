@@ -4,9 +4,7 @@
 
 * [Overview](README.md)
 * [Capabilities](learn/capabilities/README.md)
-  * [Getting Started](learn/capabilities/getting-started.md)
   * [Asset Sourcing](learn/capabilities/asset-sourcing.md)
-* [Case Studies](learn/case-studies.md)
 * [Technical Architecture](learn/technical-architecture.md)
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
   * [Reference coKreat Web App](learn/product-and-developer-guide/reference-cokreat-web-app/README.md)
