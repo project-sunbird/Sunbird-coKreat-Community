@@ -2,7 +2,7 @@
 
 ### Reference coKreat web application <a href="#reference-cokreat-web-application" id="reference-cokreat-web-application"></a>
 
-This is a reference web application that enables '**Asset Sourcing**'. It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks.
+enables '**Asset Sourcing**'. It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks.
 
 The web application consists of the following two portals.
 
