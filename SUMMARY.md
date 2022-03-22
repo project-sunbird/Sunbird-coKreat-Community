@@ -30,8 +30,10 @@
 
 ## USE
 
+* [Overview](use/overview.md)
 * [System requirements](use/system-requirements.md)
-* [How-to Install](use/how-to-install.md)
+* [Installation guide](use/installation-guide.md)
+* [Developer installation](use/developer-installation.md)
 
 ## Archived
 
