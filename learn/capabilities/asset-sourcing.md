@@ -2,9 +2,7 @@
 
 ### Reference coKreat web application <a href="#reference-cokreat-web-application" id="reference-cokreat-web-application"></a>
 
-This is a reference web application that enables end to end workflows of the asset co-creation process.&#x20;
-
-It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks listed in the [Dependencies ](https://project-sunbird.atlassian.net/wiki/spaces/SC/pages/3008987139)section.
+This is a reference web application that enables '**Asset Sourcing**'. It consists of the front end code of the web application, including pages, widgets etc. It internally uses contribution service, contribution registry, sourcing data products and other Sunbird building blocks.
 
 The web application consists of the following two portals.
 
@@ -16,7 +14,6 @@ This portal enables organizations to source assets, curate and publish them for 
 2. Review the nominations to a sourcing project from contributors
 3. Review the asset contributions to a sourcing project from the approved set of contributors
 4. Curate and publish the assets for consumption
-5. Workspace for in-house creation of assets without a sourcing project
 
 #### b) Portal for contributors to contribute assets  <a href="#portal-for-contributors-to-contribute-assets" id="portal-for-contributors-to-contribute-assets"></a>
 
