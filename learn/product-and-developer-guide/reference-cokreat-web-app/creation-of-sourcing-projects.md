@@ -1,6 +1,16 @@
-# Project Set Up
+# Creation of Sourcing Projects
 
-The previous [section](different-types-of-sourcing.md) detailed about the various types of sourcing workflows enabled by the coKreat reference portal. This section will cover in detail 'How to' create projects using the reference webapp.&#x20;
+Sourcing projects (also referred as projects in this microsite) are created by an organization admin to seek contributions. Projects are entirely purpose driven. For example, a project to source:
+
+a) Content for a collection such as a course or a textbook.&#x20;
+
+OR
+
+b) Content for question set such as assessments, surveys etc
+
+OR
+
+c) Content for creating a repository of videos&#x20;
 
 ### How to create a project?
 
