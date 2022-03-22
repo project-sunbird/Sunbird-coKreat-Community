@@ -21,10 +21,10 @@
     * [Contribution Process](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/README.md)
       * [How to Nominate?](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/how-to-nominate.md)
       * [How to Contribute?](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/how-to-contribute.md)
+    * [Lifecycle of contribution of an asset](learn/product-and-developer-guide/reference-cokreat-web-app/lifecycle-of-contribution-of-an-asset.md)
     * [Workspace](learn/product-and-developer-guide/reference-cokreat-web-app/workspace.md)
   * [Contribution Service](learn/product-and-developer-guide/contribution-service.md)
   * [Contribution Registry](learn/product-and-developer-guide/contribution-registry.md)
-    * [Lifecycle of contribution of an asset](learn/product-and-developer-guide/contribution-registry/lifecycle-of-contribution-of-an-asset.md)
   * [Data Products](learn/product-and-developer-guide/data-products.md)
 * [Try it out](learn/try-it-out.md)
 * [Product Roadmap](learn/product-roadmap.md)
@@ -35,11 +35,11 @@
 
 ## USE
 
+* [Overview](<use/overview (1).md>)
 * [Overview](use/overview.md)
-* [Overview](use/overview-1.md)
 * [System requirements](use/system-requirements.md)
 * [Installation guide](use/installation-guide.md)
-* [Installation guide](use/installation-guide-1.md)
+* [Installation guide](<use/installation-guide (1).md>)
 * [Developer Installation](use/how-to-install.md)
 
 ## Archived
