@@ -28,11 +28,20 @@ This portal enables contributors - individuals or organizations, to enroll as co
 
 ### 2) Contribution Service
 
-
+Contribution service consists of APIs to create and manage contribution projects, nominations and assigning users & roles for a project.
 
 ### 3) Contribution Registry
 
-
+Contribution registry consists of APIs to manage contribution orgs, contribution org users and individual contributor profiles.&#x20;
 
 ### 4) Data Products
+
+coKreat provides six out of the box reports which help sourcing organization administrators to gauze the health of the sourcing projects and intervene, when needed.&#x20;
+
+1. **Collection Level gap report** - This report provides details of the number of assets(content) that are linked to each collection and It helps project administrators track content availability vs. the needs at a collection level.
+2. **Folder Level gap report** - This report provides details of the number of assets(content) linked against each folder of the Collections. It helps project administrators track content availability vs. the needs at a chapter level.
+3. **Visitor’s report** - This report provides details of the number of visitors to help you understand the traffic funnel and manage/expand the outreach campaign.
+4. **Project level funnel report** - This report provides details of the number of visitors to help you understand the traffic funnel and manage/expand outreach campaign at a project level.
+5. **Content details report** - This report provides details of all the assets(contents) that are contributed to across all projects. It helps administrators for multiple purposes like tracking the contribution or review status, as well as doing custom analysis related to the contributed content.
+6. **Contribution usage metrics report** - This report provides details to the contributors on how many assets(contents) contributed are used, how much they are used(Usage details of the assets published).
 
