@@ -8,7 +8,6 @@
   * [Rich & Diverse Assets](learn/capabilities/rich-and-diverse-assets.md)
   * [Organized Collections](learn/capabilities/organized-collections.md)
   * [Asset Lifecycle Management](learn/capabilities/asset-lifecycle-management.md)
-  * [User Engagement](learn/capabilities/user-engagement.md)
   * [Question Bank](learn/capabilities/question-bank.md)
   * [Observability](learn/capabilities/observability.md)
 * [Technical Architecture](learn/technical-architecture.md)

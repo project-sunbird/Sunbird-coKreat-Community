@@ -22,10 +22,6 @@ In this section you will find more details about of each of the below capabiliti
 [question-bank.md](question-bank.md)
 {% endcontent-ref %}
 
-{% content-ref url="user-engagement.md" %}
-[user-engagement.md](user-engagement.md)
-{% endcontent-ref %}
-
 {% content-ref url="observability.md" %}
 [observability.md](observability.md)
 {% endcontent-ref %}
