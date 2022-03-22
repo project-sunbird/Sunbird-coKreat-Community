@@ -1,6 +1,6 @@
-# How-to Install
+# Developer Installation
 
-### Frontend(Web application)
+### Frontend (Web application)
 
 {% embed url="https://github.com/Sunbird-Ed/creation-portal/tree/release-4.5.0#run-locally" %}
 Web application

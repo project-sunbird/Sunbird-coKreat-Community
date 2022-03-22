@@ -23,7 +23,7 @@
       * [How to Contribute?](learn/product-and-developer-guide/reference-cokreat-web-app/contribution-process/how-to-contribute.md)
     * [Workspace](learn/product-and-developer-guide/reference-cokreat-web-app/workspace.md)
   * [Contribution Service](learn/product-and-developer-guide/contribution-service.md)
-  * [Contribution Registry](learn/product-and-developer-guide/contribution-registry/README.md)
+  * [Contribution Registry](learn/product-and-developer-guide/contribution-registry.md)
     * [Lifecycle of contribution of an asset](learn/product-and-developer-guide/contribution-registry/lifecycle-of-contribution-of-an-asset.md)
   * [Data Products](learn/product-and-developer-guide/data-products.md)
 * [Try it out](learn/try-it-out.md)
@@ -36,9 +36,11 @@
 ## USE
 
 * [Overview](use/overview.md)
+* [Overview](use/overview-1.md)
 * [System requirements](use/system-requirements.md)
 * [Installation guide](use/installation-guide.md)
-* [Developer installation](use/developer-installation.md)
+* [Installation guide](use/installation-guide-1.md)
+* [Developer Installation](use/how-to-install.md)
 
 ## Archived
 
