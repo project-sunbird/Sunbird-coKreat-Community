@@ -5,6 +5,7 @@
 * [Overview](README.md)
 * [Capabilities](learn/capabilities/README.md)
   * [Asset Sourcing](learn/capabilities/asset-sourcing.md)
+  * [Lifecycle of contribution of an asset](learn/capabilities/lifecycle-of-contribution-of-an-asset.md)
 * [Technical Architecture](learn/technical-architecture.md)
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
   * [Reference coKreat Web App](learn/product-and-developer-guide/reference-cokreat-web-app/README.md)
