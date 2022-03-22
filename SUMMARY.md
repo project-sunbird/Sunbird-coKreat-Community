@@ -35,11 +35,9 @@
 
 ## USE
 
-* [Overview](<use/overview (1).md>)
 * [Overview](use/overview.md)
 * [System requirements](use/system-requirements.md)
 * [Installation guide](use/installation-guide.md)
-* [Installation guide](<use/installation-guide (1).md>)
 * [Developer Installation](use/developer-installation.md)
 
 ## Archived
