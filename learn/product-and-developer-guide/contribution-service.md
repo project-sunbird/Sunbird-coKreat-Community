@@ -4,10 +4,6 @@ The Contribution microservice enables organizations to digitally plan, coordinat
 
 Contribution service offers the APIs for creating and managing projects, their nominations, setting and reading user preferences, reading the configuration, getting the list of tenants and projects reports, etc. It stores information about the sourcing projects, their nominations, and configuration.
 
-### API Documentation
-
-To experience the APIs, please visit [here](http://docs.sunbird.org/latest/apis/programsapi/)
-
 ### Program APIs
 
 Program APIs provide the ability to organizations to create and manage projects to get the crowdsourcing of assets.
