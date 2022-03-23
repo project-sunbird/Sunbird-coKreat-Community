@@ -8,9 +8,9 @@ Contribution service offers the APIs for creating and managing projects, their n
 
 To experience the APIs, please visit [here](http://docs.sunbird.org/latest/apis/programsapi/)
 
-#### [Program APIs](http://docs.sunbird.org/latest/apis/programsapi/#tag/Program-CRUD)
+### Program APIs
 
-[Program APIs](http://docs.sunbird.org/latest/apis/programsapi/#tag/Program-CRUD) provide the ability to organizations to create and manage projects to get the crowdsourcing of assets.
+Program APIs provide the ability to organizations to create and manage projects to get the crowdsourcing of assets.
 
 ![](<../../.gitbook/assets/Program APIs (1).png>)
 
@@ -24,27 +24,51 @@ To experience the APIs, please visit [here](http://docs.sunbird.org/latest/apis/
 * [List download](http://docs.sunbird.org/latest/apis/programsapi/#operation/ListDownload200Success): This API can be used to download the project details with insight full details like the number of nominations received, contribution received, sample received, contribution rejected, project metadata etc.
 * [Read project](http://docs.sunbird.org/latest/apis/programsapi/#operation/Read-Program-200-Success): This API returns the entire project details.
 
-#### [Nomination APIs](http://docs.sunbird.org/latest/apis/programsapi/#tag/Nomination)
+#### API Documentation:
 
-[Nomination APIs](http://docs.sunbird.org/latest/apis/programsapi/#tag/Nomination) provide the ability to nominate and manage nominations made to the project.&#x20;
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Program-CRUD) to know in detail about the Program APIs
+
+### Nomination APIs
+
+Nomination APIs provide the ability to nominate and manage nominations made to the project.&#x20;
 
 ![](../../.gitbook/assets/nomination.png)
 
-#### [Report API](http://docs.sunbird.org/latest/apis/programsapi/#tag/Report)
+#### API Documentation:
 
-[Report API](http://docs.sunbird.org/latest/apis/programsapi/#tag/Report) generates the report of the approved asset contributed to the project.
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Nomination) to know in detail about the Nomination APIs
 
-#### [Configuration Search API](http://docs.sunbird.org/latest/apis/programsapi/#tag/Configuration)
+### Report API
 
-[Configuration search API](http://docs.sunbird.org/latest/apis/programsapi/#tag/Configuration) supports searching the configuration by its key and status. The configuration entity provides the ability to mark configuration as active/ inactive. This configuration entity can be used to maintain a variety of configurations such as email/ SMS template configuration.&#x20;
+Report API generates the report of the approved asset contributed to the project.
 
-#### [Tenant list ](http://docs.sunbird.org/latest/apis/programsapi/#tag/Tenant-list)
+#### API Documentation:
 
-[Tenant list API](http://docs.sunbird.org/latest/apis/programsapi/#tag/Tenant-list) enables the ability to get a list of sourcing organizations that wants crowdsourcing of assets from the contributor for their projects. Tenant list API supports the filters, it can be used to get the active(live) / inactive tenant list.
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Report) to know in detail about the Report API.
 
-#### ****[**Preference APIs**](http://docs.sunbird.org/latest/apis/programsapi/#tag/Preference)
+### Configuration Search API
 
-[Preference APIs](http://docs.sunbird.org/latest/apis/programsapi/#tag/Preference) provide the ability to add, update, read user and project preferences.&#x20;
+Configuration search API supports searching the configuration by its key and status. The configuration entity provides the ability to mark configuration as active/ inactive. This configuration entity can be used to maintain a variety of configurations such as email/ SMS template configuration.&#x20;
+
+#### API Documentation:
+
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Configuration) to know in detail about the Configuration search API.
+
+### Tenant List API
+
+Tenant list API enables the ability to get a list of sourcing organizations that wants crowdsourcing of assets from the contributor for their projects. Tenant list API supports the filters, it can be used to get the active(live) / inactive tenant list.
+
+#### API Documentation:
+
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Tenant-list) to know in detail about the Tenant list API.
+
+### Preference API
+
+Preference APIs provide the ability to add, update, read user and project preferences.&#x20;
+
+#### API Documentation:
+
+Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Preference) to know in detail about the Preference API.
 
 ### Source Code
 
