@@ -10,8 +10,8 @@ In this section you will find more details about each of the below capabilities.
 [rich-and-diverse-assets.md](rich-and-diverse-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="organized-collections.md" %}
-[organized-collections.md](organized-collections.md)
+{% content-ref url="organised-collections.md" %}
+[organised-collections.md](organised-collections.md)
 {% endcontent-ref %}
 
 {% content-ref url="asset-lifecycle-management.md" %}

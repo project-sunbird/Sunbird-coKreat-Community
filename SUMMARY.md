@@ -6,7 +6,7 @@
 * [Capabilities](learn/capabilities/README.md)
   * [Asset Sourcing](learn/capabilities/asset-sourcing.md)
   * [Rich & Diverse Assets](learn/capabilities/rich-and-diverse-assets.md)
-  * [Organized Collections](learn/capabilities/organized-collections.md)
+  * [Organised Collections](learn/capabilities/organised-collections.md)
   * [Asset Lifecycle Management](learn/capabilities/asset-lifecycle-management.md)
   * [Question Bank](learn/capabilities/question-bank.md)
   * [Observability](learn/capabilities/observability.md)
