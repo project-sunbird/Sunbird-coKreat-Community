@@ -8,7 +8,7 @@ Contribution service offers the APIs for creating and managing projects, their n
 
 Program APIs provide the ability to organizations to create and manage projects to get the crowdsourcing of assets.
 
-![](<../../.gitbook/assets/Program APIs (1).png>)
+![](<../../../.gitbook/assets/Program APIs (1).png>)
 
 **Key features**
 
@@ -28,7 +28,7 @@ Click [here](http://docs.sunbird.org/latest/apis/programsapi/#tag/Program-CRUD) 
 
 Nomination APIs provide the ability to nominate and manage nominations made to the project.&#x20;
 
-![](../../.gitbook/assets/nomination.png)
+![](../../../.gitbook/assets/nomination.png)
 
 #### API Documentation:
 
